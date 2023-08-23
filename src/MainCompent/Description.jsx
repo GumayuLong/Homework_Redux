@@ -14,27 +14,6 @@ export default class Description extends Component {
               BT5: Movie Booking
               Click  <NavLink to='/movieBooking'>Here !</NavLink>
           </p>
-          {/* <hr /> */}
-          {/* <p>
-              BT4: Form Validation
-              Click  <NavLink to='/formValidation'>Here !</NavLink>
-          </p> */}
-          {/* <hr />
-          <p>
-              BT3: React Props
-              Click  <NavLink to='/Props'>Here !</NavLink>
-          </p>
-          <hr />
-          <p>
-              BT2: React Glasses
-              Click  <NavLink to='/Glasses'>Here !</NavLink>
-          </p>
-          <hr />
-          <p>
-              BT1: React Layout
-              Click  <NavLink to='/BTLayout'>Here !</NavLink>
-          </p>
-          <hr /> */}
       </div>
 
     )
